@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "cover": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server 2",
+      "cover": "typicode"
+    },
+    {
+      "title": "json-server",
+      "cover": "typicode",
+      "id": 3
+    }
+  ]
+}
